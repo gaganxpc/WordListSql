@@ -1,0 +1,25 @@
+#Sun Dec 10 13:45:17 ICT 2017
+renamed.7=classes4.dex
+renamed.6=classes.dex
+renamed.5=classes7.dex
+renamed.4=classes8.dex
+renamed.3=classes2.dex
+renamed.2=classes5.dex
+renamed.1=classes3.dex
+renamed.0=classes6.dex
+base.7=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4ca724e6dc0dc463c452ad6bfc8ef323f045be83
+base.6=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_09579d370fbd1b8fd9350025ce59233e4a8fe4bb
+base.5=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_3182767517bf5e2ddfa8578df9b2c7f9b0508239
+base.4=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_476f4a0a9d0e620947d6a4b120a6426418924318
+base.3=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0ec5c30fef15d484b7dfa0c12601de2f98e36ea4
+base.2=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9beeec1d19869c432ed0683540e95048b798cedc
+base.1=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4823e7f7b6d5a594086b6a7ed3b3cc468fe330b5
+base.0=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f1bf007f53271507ba0d1b1d3ba73eae69e1b691
+file.7=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4ca724e6dc0dc463c452ad6bfc8ef323f045be83\\classes.dex
+file.6=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_09579d370fbd1b8fd9350025ce59233e4a8fe4bb\\classes.dex
+file.5=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-24.1.1_3182767517bf5e2ddfa8578df9b2c7f9b0508239\\classes.dex
+file.4=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-24.1.1_476f4a0a9d0e620947d6a4b120a6426418924318\\classes.dex
+file.3=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0ec5c30fef15d484b7dfa0c12601de2f98e36ea4\\classes.dex
+file.2=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_9beeec1d19869c432ed0683540e95048b798cedc\\classes.dex
+file.1=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4823e7f7b6d5a594086b6a7ed3b3cc468fe330b5\\classes.dex
+file.0=D\:\\AndroidStudio\\WordListSql-Starter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f1bf007f53271507ba0d1b1d3ba73eae69e1b691\\classes.dex
